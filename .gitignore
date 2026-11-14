@@ -1,0 +1,4 @@
+data/
+dashboard/index.html
+__pycache__/
+*.pyc
